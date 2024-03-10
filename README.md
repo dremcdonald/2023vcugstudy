@@ -1,5 +1,4 @@
 # Insights for Better Care | 2023 VCUG Study
-**IBC seeks to quantify the patient impact of invasive procedures through data.**
 
 **This repository hosts key information from the first-ever retrospective cohort study (IRB #852632) exploring the relationship between undergoing VCUG (a childhood diagnostic procedure) and trauma in adulthood.**
 
