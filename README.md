@@ -14,3 +14,5 @@ Here, you can find important background information on the VCUG procedure, docum
 
 **- IBC 2023 Study IRB Approval Exemption Form:** IRB exemption/approval form
 
+Step through the study as if you were a respondent here: https://redcap.med.upenn.edu/surveys/?s=FPTL84PJAJ43P4YC
+
