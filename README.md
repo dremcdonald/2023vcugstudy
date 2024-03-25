@@ -8,9 +8,9 @@ Here, you can find important background information on the VCUG procedure, docum
 
 **Contents**
 
-**- The Body Keeps the Score: An Exploratory Study on the Long-Term Impact of Voiding Cystourethrograms (VCUGs)** Study abstract
+**- The Body Keeps the Score: An Exploratory Study on the Long-Term Impact of Voiding Cystourethrograms (VCUGs):** Study abstract
 
-**- IBC VCUG 2023 Data Dictionary** Understand variables of interest
+**- IBC VCUG 2023 Data Dictionary:** Understand variables of interest
 
 **- IBC 2023 Study Recruitment Flyer:** Study recruitment flyer
 
